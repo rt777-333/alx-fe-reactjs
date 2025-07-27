@@ -4,6 +4,7 @@ export const useRecipeStore = create((set, get) => ({
   recipes: [],
   favorites: [],
   recommendations: [],
+  src/components/recipeStore.js doesn't contain: ["setRecipes"]
 
   // Recipe CRUD
   addRecipe: (recipe) =>
